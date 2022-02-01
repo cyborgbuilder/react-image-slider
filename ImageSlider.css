@@ -1,0 +1,25 @@
+
+.slick-arrow{
+    color: black;
+
+}
+.slick-slide img{
+    display: block;
+    max-width: 100%;
+
+}
+
+.slick-prev{
+    z-index: 100;
+    left:20px !important;
+    
+    font-size: 0;
+}
+
+
+.slick-next{
+    z-index: 100;
+    right:20px !important;
+    font-size: 0;
+    
+}
